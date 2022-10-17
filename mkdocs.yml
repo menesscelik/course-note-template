@@ -2,7 +2,7 @@
 site_name: RTEU Course Notes Templates
 docs_dir: docs  # Where to find the English markdown files
 site_dir: site  # Where to put the English HTML files
-site_author: 'Muhammed Enes Çelik'
+site_author: 'Muhammed Enes ÇELİK'
 site_url: 'https://github.com/menesscelik?tab=repositories'
 
 site_description_en: >-
