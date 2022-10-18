@@ -1,83 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
-         <loc>https://github.com/menesscelik/?tab=repositories/</loc>
+         <loc>https://menesscelik.github.io/course-note-template/</loc>
          <lastmod>2022-10-18</lastmod>
          <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="en" href="https://github.com/menesscelik/en/"/>
-         <xhtml:link rel="alternate" hreflang="tr" href="https://github.com/menesscelik/tr/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="https://menesscelik.github.io/course-note-template/en/"/>
+         <xhtml:link rel="alternate" hreflang="tr" href="https://menesscelik.github.io/course-note-template/tr/"/>
          
     </url>
     <url>
-         <loc>https://github.com/menesscelik/license/</loc>
+         <loc>https://menesscelik.github.io/course-note-template/license/</loc>
          <lastmod>2022-10-18</lastmod>
          <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="en" href="https://github.com/menesscelik/en/license/"/>
-         <xhtml:link rel="alternate" hreflang="tr" href="https://github.com/menesscelik/tr/license/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="https://menesscelik.github.io/course-note-template/en/license/"/>
+         <xhtml:link rel="alternate" hreflang="tr" href="https://menesscelik.github.io/course-note-template/tr/license/"/>
          
     </url>
     <url>
-         <loc>https://github.com/menesscelik/changelog/</loc>
+         <loc>https://menesscelik.github.io/course-note-template/changelog/</loc>
          <lastmod>2022-10-18</lastmod>
          <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="en" href="https://github.com/menesscelik/en/changelog/"/>
-         <xhtml:link rel="alternate" hreflang="tr" href="https://github.com/menesscelik/tr/changelog/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="https://menesscelik.github.io/course-note-template/en/changelog/"/>
+         <xhtml:link rel="alternate" hreflang="tr" href="https://menesscelik.github.io/course-note-template/tr/changelog/"/>
          
     </url>
     <url>
-         <loc>https://github.com/menesscelik/resume/</loc>
+         <loc>https://menesscelik.github.io/course-note-template/resume/</loc>
          <lastmod>2022-10-18</lastmod>
          <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="en" href="https://github.com/menesscelik/en/resume/"/>
-         <xhtml:link rel="alternate" hreflang="tr" href="https://github.com/menesscelik/tr/resume/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="https://menesscelik.github.io/course-note-template/en/resume/"/>
+         <xhtml:link rel="alternate" hreflang="tr" href="https://menesscelik.github.io/course-note-template/tr/resume/"/>
          
     </url>
     <url>
-         <loc>https://github.com/menesscelik/syllabus/syllabus/</loc>
+         <loc>https://menesscelik.github.io/course-note-template/syllabus/syllabus/</loc>
          <lastmod>2022-10-18</lastmod>
          <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="en" href="https://github.com/menesscelik/en/syllabus/syllabus/"/>
-         <xhtml:link rel="alternate" hreflang="tr" href="https://github.com/menesscelik/tr/syllabus/syllabus/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="https://menesscelik.github.io/course-note-template/en/syllabus/syllabus/"/>
+         <xhtml:link rel="alternate" hreflang="tr" href="https://menesscelik.github.io/course-note-template/tr/syllabus/syllabus/"/>
          
     </url>
     <url>
-         <loc>https://github.com/menesscelik/week-1/week-1/</loc>
+         <loc>https://menesscelik.github.io/course-note-template/week-1/week-1/</loc>
          <lastmod>2022-10-18</lastmod>
          <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="en" href="https://github.com/menesscelik/en/week-1/week-1/"/>
-         <xhtml:link rel="alternate" hreflang="tr" href="https://github.com/menesscelik/tr/week-1/week-1/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="https://menesscelik.github.io/course-note-template/en/week-1/week-1/"/>
+         <xhtml:link rel="alternate" hreflang="tr" href="https://menesscelik.github.io/course-note-template/tr/week-1/week-1/"/>
          
     </url>
     <url>
-         <loc>https://github.com/menesscelik/week-2/week-2/</loc>
+         <loc>https://menesscelik.github.io/course-note-template/week-2/week-2/</loc>
          <lastmod>2022-10-18</lastmod>
          <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="en" href="https://github.com/menesscelik/en/week-2/week-2/"/>
-         <xhtml:link rel="alternate" hreflang="tr" href="https://github.com/menesscelik/tr/week-2/week-2/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="https://menesscelik.github.io/course-note-template/en/week-2/week-2/"/>
+         <xhtml:link rel="alternate" hreflang="tr" href="https://menesscelik.github.io/course-note-template/tr/week-2/week-2/"/>
          
     </url>
     <url>
-         <loc>https://github.com/menesscelik/week-2/sources/llvm-clang-hello-world-apps/</loc>
+         <loc>https://menesscelik.github.io/course-note-template/week-2/sources/llvm-clang-hello-world-apps/</loc>
          <lastmod>2022-10-18</lastmod>
          <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="en" href="https://github.com/menesscelik/en/week-2/sources/llvm-clang-hello-world-apps/"/>
-         <xhtml:link rel="alternate" hreflang="tr" href="https://github.com/menesscelik/tr/week-2/sources/llvm-clang-hello-world-apps/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="https://menesscelik.github.io/course-note-template/en/week-2/sources/llvm-clang-hello-world-apps/"/>
+         <xhtml:link rel="alternate" hreflang="tr" href="https://menesscelik.github.io/course-note-template/tr/week-2/sources/llvm-clang-hello-world-apps/"/>
          
     </url>
     <url>
-         <loc>https://github.com/menesscelik/week-2/sources/mingw-gcc-hello-world-apps/</loc>
+         <loc>https://menesscelik.github.io/course-note-template/week-2/sources/mingw-gcc-hello-world-apps/</loc>
          <lastmod>2022-10-18</lastmod>
          <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="en" href="https://github.com/menesscelik/en/week-2/sources/mingw-gcc-hello-world-apps/"/>
-         <xhtml:link rel="alternate" hreflang="tr" href="https://github.com/menesscelik/tr/week-2/sources/mingw-gcc-hello-world-apps/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="https://menesscelik.github.io/course-note-template/en/week-2/sources/mingw-gcc-hello-world-apps/"/>
+         <xhtml:link rel="alternate" hreflang="tr" href="https://menesscelik.github.io/course-note-template/tr/week-2/sources/mingw-gcc-hello-world-apps/"/>
          
     </url>
     <url>
-         <loc>https://github.com/menesscelik/week-2/sources/npp-gcc-hello-world-apps/</loc>
+         <loc>https://menesscelik.github.io/course-note-template/week-2/sources/npp-gcc-hello-world-apps/</loc>
          <lastmod>2022-10-18</lastmod>
          <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="en" href="https://github.com/menesscelik/en/week-2/sources/npp-gcc-hello-world-apps/"/>
-         <xhtml:link rel="alternate" hreflang="tr" href="https://github.com/menesscelik/tr/week-2/sources/npp-gcc-hello-world-apps/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="https://menesscelik.github.io/course-note-template/en/week-2/sources/npp-gcc-hello-world-apps/"/>
+         <xhtml:link rel="alternate" hreflang="tr" href="https://menesscelik.github.io/course-note-template/tr/week-2/sources/npp-gcc-hello-world-apps/"/>
          
     </url>
 </urlset>
