@@ -6,9 +6,11 @@ site_author: 'Muhammed Enes ÇELİK'
 site_url: 'https://menesscelik.github.io/course-note-template'
 
 site_description_en: >-
+    Muhammed Enes Celik
     Course Notes Templates
 
 site_description_tr: >-
+    Muhammed Enes Celik
     Ders Notu Şablonu
 
 # Repository
@@ -74,8 +76,8 @@ theme:
         icon: material/toggle-switch
         name: Switch to dark mode
     - scheme: slate
-      primary: blue
-      accent: red
+      primary: red
+      accent: purple
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to light mode
